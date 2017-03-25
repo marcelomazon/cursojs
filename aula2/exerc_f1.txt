@@ -1,0 +1,2 @@
+//exercicio 1 
+// calcular a media dos parametros
